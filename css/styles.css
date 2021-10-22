@@ -1,0 +1,21 @@
+
+
+
+/*MI PROYECTO SIN CAMBIOS*/
+
+div {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 15vh;
+}
+
+h1 {
+	font-family: monospace;
+}
+
+.imagenTitulo {
+	height: 45px;
+	width: 45px;
+}
+
